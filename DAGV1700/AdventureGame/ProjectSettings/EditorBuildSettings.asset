@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MyLevels/MainMenu.unity
     guid: 1f9679bce358c1b4698b5407426ebae3
+  - enabled: 1
+    path: Assets/Scenes/MyLevels/Grandmama.unity
+    guid: 061000f9ab97bac4bbe336c97657c7b5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
